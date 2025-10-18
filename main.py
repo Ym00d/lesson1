@@ -1,7 +1,7 @@
 #print("Hello World")
 #print("Hello I'm Github")
 
-#ООП Класи Артибути та методи класів
+#ООП Класи. Артибути та методи. класів.
 
 class Student:
     print("Hello!")
